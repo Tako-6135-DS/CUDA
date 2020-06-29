@@ -8,8 +8,8 @@ PyCharm 2020 and Cuda Toolkit 10
 | ------------- | ------------- |
 | CPU | Intel(R) Core(TM) i3-7100  |
 | RAM | 12GB DDR3  |
-| GPU | GeForce GTX 650 Ti  
-| OS  |Linux Mint 19.1 Cinnamon 64-bit  |
+| GPU | GeForce GTX 650 Ti |  
+| OS  |Windows 10 64-bit |
 
 ## Results
 | N | CPU | GPU |
