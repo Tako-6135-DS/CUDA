@@ -1,4 +1,4 @@
-## PyCUDA matmul
+## CUDA matmul
 Multiplying NxN Square Matrices Using PyCUDA.
 
 PyCharm 2020 and Cuda Toolkit 10
